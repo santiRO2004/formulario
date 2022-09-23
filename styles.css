@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario
+{
+    font-family: 'Reem Kufi Ink', sans-serif;
+    text-align: center;
+    background-color: burlywood;
+    height: 50vh;
+}
+.lottie
+{
+    background-color: rgba(92, 211, 53, 0.442);
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
